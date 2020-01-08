@@ -1,0 +1,26 @@
+Resumo. Manifestações de distúrbios cognitivos e neuro-comportamentais ca-
+racterizam o Transtorno do Espectro Autista (TEA). Indivíduos com TEA pos-
+suem dificuldade em compreender e expressar emoções, o que torna o estudo de
+
+suas expressões faciais relevante para identificar e compreender seus estados
+
+emocionais. Avaliar seus estados mentais através de reconhecimento de expres-
+sões faciais proporcionam sempre um feedback, possibilitado sua analise e es-
+tudo para cada reação obtida após um estimulo, que poderá tem uma melhor
+
+resposta da criança com TEA após ser observado suas mais discretas expressões
+
+faciais. Além de a mais sutil mudança mesmo incompreensível aos olhos hu-
+manos poderá ser percebida e aprendida com a utilização de algoritmos de
+
+aprendizagem de maquina. Os objetivos deste trabalho são utilizar informação
+de expressões faciais para identificar estados emocionais e mentais de crianças
+
+com TEA durante sua interação com um software, além de avaliar essa intera-
+ção usando os métodos Goal Attainment Scaling (GAS) e System Usability
+
+Scale (SUS). Os resultados preliminares mostraram que é possível identificar
+emoções através de APIs de reconhecimento facial que foi modificada para
+atender este proposito e indivíduos com TEA. As escala GAS e SUS indicaram
+que este método pode ser uma potencial ferramenta terapêutica e para obtenção
+de informações na interação com crianças com TEA
